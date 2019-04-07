@@ -11,6 +11,7 @@ public class WeatherreportApplicationTests {
 
 	@Test
 	public void contextLoads() {
+		System.out.println("main getting called");
 	}
 
 }
